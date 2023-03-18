@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Chen1fly.github.io</id>
+    <title>树枝孤鳥的站点</title>
+    <updated>2023-03-18T03:21:46.734Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Chen1fly.github.io"/>
+    <link rel="self" href="https://Chen1fly.github.io/atom.xml"/>
+    <subtitle>树枝孤鳥</subtitle>
+    <logo>https://Chen1fly.github.io/images/avatar.png</logo>
+    <icon>https://Chen1fly.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 树枝孤鳥的站点</rights>
+    <entry>
+        <title type="html"><![CDATA[之前的网站内容全部丢失，准备迁移到个人的服务器上，再从头开始]]></title>
+        <id>https://Chen1fly.github.io/post/ce-shi-yi-xia/</id>
+        <link href="https://Chen1fly.github.io/post/ce-shi-yi-xia/">
+        </link>
+        <updated>2023-03-12T11:35:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="之前的网站内容全部丢失">之前的网站内容全部丢失。。</h2>
+<p>github pages国内网络连接十分困难，每次push都不知道成功没成功<br>
+之前用hexo，一些网站相关数据只能保存在本地，无法全部push云端，本地硬盘故障导致数据全部丢失。<br>
+准备迁移到个人的服务器上，再从头开始😄</p>
+]]></content>
+    </entry>
+</feed>
